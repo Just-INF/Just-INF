@@ -40,6 +40,8 @@
 
 <br clear="both">
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=yz7wvx29qc2s9epw8945g9vkx&unique={true|1|on|yes})
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=yz7wvx29qc2s9epw8945g9vkx&unique=true" alt="Spotify Recently Played">
+</p>
 
 ###
