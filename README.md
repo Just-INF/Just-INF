@@ -39,7 +39,7 @@
 ###
 
 <br clear="both">
-<div align="center">
-  ![Spotify Music](https://spotify-recently-played-readme.vercel.app/api?user=yz7wvx29qc2s9epw8945g9vkx&unique={true|1|on|yes})
-</div>
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=yz7wvx29qc2s9epw8945g9vkx&unique={true|1|on|yes})
+
 ###
