@@ -39,7 +39,7 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/Just-INF/Just-INF/output/snake.svg" alt="Snake animation" />
-
+<div align="center">
+  ![Spotify Music](https://spotify-recently-played-readme.vercel.app/api?user=yz7wvx29qc2s9epw8945g9vkx&unique={true|1|on|yes})
+</div>
 ###
